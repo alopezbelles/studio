@@ -1,3 +1,55 @@
 {
-  "placeholderImages": []
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "Creative Studio",
+      "description": "A responsive website for a digital design studio, showcasing their portfolio and services.",
+      "imageUrl": "https://picsum.photos/seed/1/600/400",
+      "imageHint": "creative design",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "#"
+        },
+        {
+          "label": "Live Demo",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "project-2",
+      "title": "Task Manager App",
+      "description": "A productivity application to help users organize tasks, set deadlines, and track progress.",
+      "imageUrl": "https://picsum.photos/seed/2/600/400",
+      "imageHint": "task manager",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "#"
+        },
+        {
+          "label": "Live Demo",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "id": "project-3",
+      "title": "E-commerce Platform",
+      "description": "A full-stack e-commerce solution with product catalogs, shopping cart, and payment integration.",
+      "imageUrl": "https://picsum.photos/seed/3/600/400",
+      "imageHint": "online shopping",
+      "links": [
+        {
+          "label": "GitHub",
+          "url": "#"
+        },
+        {
+          "label": "Live Demo",
+          "url": "#"
+        }
+      ]
+    }
+  ]
 }
